@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images7.alphacoders.com/137/thumb-1920-1375523.png" alt="Welcome Coding GIF" width="600">
+  <img src="https://media.giphy.com/media/L8K62iDadg1EQ/giphy.gif" alt="Chill Lofi Welcome GIF" width="600">
 </p>
 
 <h1 align="center">Hi, I'm Adil 👋</h1>
