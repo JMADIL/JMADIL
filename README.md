@@ -19,9 +19,9 @@
 ---
 
 ## About Me  
-🏫 **Software Engineering Student @ 1337 (42 Network)**
-🛠️ **Low-level programmer diving deep into AI & Automation**
-🧠 **Building with C++, Python, & LangChain**
+>🏫 **Software Engineering Student @ 1337 (42 Network)**
+>🛠️ **Low-level programmer diving deep into AI & Automation**
+>🧠 **Building with C++, Python, & LangChain**
 
 ---
 
