@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 - 🏫 **1337 School (42 Network) - Tétouan, Morocco**  
 - 🖥️ **C, C++, and Arduino enthusiast**  
 - 🔬 Exploring **low-level programming, system architecture, and robotics**  
@@ -52,25 +52,25 @@
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
----
+<!-- ---
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
 ## 📌 Featured Project  
 
 ### 🔄 **[Get_Next_Line](https://github.com/ilyasrf/get_next_line)**
-> **A robust file reading function in C** that reads lines efficiently using dynamic memory allocation.
+> **A robust file reading function in C** that reads lines efficiently using dynamic memory allocation. -->
 
 ---
 
-## 📈 GitHub Stats  
+<!-- ## 📈 GitHub Stats  
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ilyasrf&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
+</p> -->
 
 ---
 
-## 📬 Connect with Me  
+<!-- ## 📬 Connect with Me  
 
 <p align="center">
   <a href="https://instagram.com/ilyas_rf1">
@@ -82,12 +82,12 @@
   <a href="mailto:rfei.ilyas@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
   </a>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Coding GIF" width="200">
 </p>
 
 <p align="center">
   🚀 **Always open to collaborations, learning, and new challenges!**
-</p>
+</p> -->
