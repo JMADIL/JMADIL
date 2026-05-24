@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white">
   <img src="https://img.shields.io/badge/LangGraph-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white">
 </p>
 
 <p align="center">
@@ -49,6 +50,11 @@
   <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Premiere_Pro-%2300005B.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white">
+  <img src="https://img.shields.io/badge/After_Effects-%2300005B.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white">
 </p>
 
 <!-- ---
