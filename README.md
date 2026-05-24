@@ -60,15 +60,11 @@
 </p>
 
 
+
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Coding GIF" width="200">
 </p>
 
-<p align="center">
-  💡 <em><strong>Powered by Peer-to-Peer Learning</strong></em>
-  <br>
-  Immersing myself in the 1337 zero-teacher environment completely transformed my approach to problem-solving. Collaborating with brilliant peers daily hasn't just leveled up my code—it has made my creativity grow, allowing me to build systems that are as well-designed as they are functional.
-</p>
 
 <!-- ---
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
