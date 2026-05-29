@@ -51,8 +51,9 @@
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white">
 </p>
----
-### 🎨 Design & Media
+
+## 🎨 Design & Media
+
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white">
