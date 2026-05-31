@@ -61,9 +61,6 @@
   <img src="https://img.shields.io/badge/After_Effects-%2300005B.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white">
 </p>
 
-
-
-
 ---
 
 
@@ -81,7 +78,6 @@
   </a>
 </p>
 
----
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dtanhpOXY3d2F1aTN6aDQyMXZhcTF6dWs2cmkzajR4cHhpZmVoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" alt="Coding GIF" width="200">
 </p>
