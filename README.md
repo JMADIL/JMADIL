@@ -1,6 +1,6 @@
-<!-- <p align="center">
+ <p align="center">
   <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" alt="Welcome Coding GIF" width="600">
-</p> -->
+</p> 
 
 <h1  align="center">Hi, I'm Adil 👋</h1>
 
