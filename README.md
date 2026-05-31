@@ -63,10 +63,6 @@
 
 
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dtanhpOXY3d2F1aTN6aDQyMXZhcTF6dWs2cmkzajR4cHhpZmVoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" alt="Coding GIF" width="200">
-</p>
-
 
 ---
 
@@ -87,6 +83,6 @@
 
 ---
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFyZmJvd2VoeGl5d2w1ZjlhMG41Y2hiMGtpMDIwdWprcWtyeXM5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Coding GIF" width="200">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dtanhpOXY3d2F1aTN6aDQyMXZhcTF6dWs2cmkzajR4cHhpZmVoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" alt="Coding GIF" width="200">
 </p>
 
