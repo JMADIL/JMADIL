@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/MCP-%2318181B.svg?style=for-the-badge&logo=modelcontextprotocol&logoColor=white">
 </p>
 
 ## 🎨 Design & Media
