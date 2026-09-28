@@ -2,8 +2,9 @@
   <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" alt="Welcome Coding GIF" width="600">
 </p> --->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Luckiest+Guy&size=30&duration=2500&pause=500&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+Adil+%F0%9F%91%8B;Nice+to+meet+you!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Luckiest+Guy&size=30&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Adil+%F0%9F%91%8B;Nice+to+meet+you!)](https://git.io/typing-svg)
+---
+---
 <div align="center">  
   <a href="https://profile.intra.42.fr/users/ajamoun">
     <img src="https://badge.mediaplus.ma/greenbinary/ajamoun" alt="ajamoun's 42 stats">
