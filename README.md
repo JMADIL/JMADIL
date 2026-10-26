@@ -9,12 +9,12 @@
 </p>
 
 
----
-<!-- <div align="center">  
+--- 
+<div align="center">  
   <a href="https://profile.intra.42.fr/users/ajamoun">
     <img src="https://badge.mediaplus.ma/greenbinary/ajamoun" alt="ajamoun's 42 stats">
   </a>
-</div>  -->
+</div> 
 
 <p align="center">
   <em>
