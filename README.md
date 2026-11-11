@@ -10,28 +10,28 @@
 
 
 --- 
-<div align="center">  
+<!--- <div align="center">  
   <a href="https://profile.intra.42.fr/users/ajamoun">
     <img src="https://badge.mediaplus.ma/greenbinary/ajamoun" alt="ajamoun's 42 stats">
   </a>
-</div> 
+</div> --->
 
 <p align="center">
   <em>
-    💻 Passionate about C & C++ development, problem-solving, and low-level programming at 1337 School (42 Network).
+    A student at 1337 Coding School (42 Network), interested in C, C++, problem-solving, and low-level programming.
   </em>
 </p>
 
 ---
 
-## About Me  
-- 🏫 Currently studying Software Engineering at **1337 School (42 Network)**
-- ⚙️ Deeply interested in **C, C++, and low-level programming**
-- 🧠 Building **agentic workflows, LangChain applications, and scalable automation**
+## About Me
+- Studying software engineering at **1337 School (42 Network)**.
+- Interested in **C, C++, and low-level programming**.
+- Building **AI agents, LangChain applications, and automation tools**.
 
 ---
 
-## 💻 Tech Stack  
+## Tech Stack  
 
 <p align="center">
   <!-- Systems & Hardware -->
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/MCP-%2318181B.svg?style=for-the-badge&logo=modelcontextprotocol&logoColor=white">
 </p>
 
-## 🎨 Design & Media
+## Design & Media
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
@@ -71,7 +71,7 @@
 ---
 
 
-## 📬 Connect with Me  
+## Connect with Me  
 
 <p align="center">
   <a href="https://instagram.com/adxxl_jm">
