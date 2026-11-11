@@ -38,8 +38,6 @@
 - Interested in **C, C++, and low-level programming**.
 - Building **AI agents, LangChain applications, and automation tools**.
 
----
-
 ## Tech Stack  
 
 <p align="center">
@@ -76,8 +74,6 @@
   <img src="https://img.shields.io/badge/Premiere_Pro-%23330066.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white">
   <img src="https://img.shields.io/badge/After_Effects-%2300005B.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white">
 </p>
-
----
 
 
 ## Connect with Me  
