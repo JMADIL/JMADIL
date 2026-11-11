@@ -8,7 +8,6 @@
   </a>
 </p>
 
-
 --- 
 <!--- <div align="center">  
   <a href="https://profile.intra.42.fr/users/ajamoun">
@@ -20,6 +19,16 @@
   <em>
     A student at 1337 Coding School (42 Network), interested in C, C++, problem-solving, and low-level programming.
   </em>
+</p>
+
+
+<p align="center">
+  <a href="https://profile.intra.42.fr/users/ajamoun">
+    <img src="https://img.shields.io/badge/42_Network-1337-7DB4CE?style=for-the-badge&logo=42&logoColor=white" alt="42 Profile">
+  </a>
+  <a href="https://github.com/JMADIL?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My_Repos-7DB4CE?style=for-the-badge&logo=github&logoColor=white" alt="My Repositories">
+  </a>
 </p>
 
 ---
